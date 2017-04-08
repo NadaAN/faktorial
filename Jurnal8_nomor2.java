@@ -5,7 +5,7 @@ public class Jurnal8_nomor2 {
 
 
     public static void main(String[]args){
-        System.out.println("Nada Afifah (123456789)");
+        System.out.println("Nada Afifah Nelzam (123456789)");
         System.out.println("");
         int l = 1;
         int tingkat = 10;
